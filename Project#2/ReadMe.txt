@@ -1,0 +1,1 @@
+All the files and the relevant output are kept inside the folder corresponding to the test cases.
